@@ -30,8 +30,7 @@ public class Quiz_02 {
 				money += 500;
 			}
 		}
-		System.out.println(money);
-		
+		System.out.println(money);		
 		scanner.close();
 	}
 }

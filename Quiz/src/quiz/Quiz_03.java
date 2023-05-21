@@ -47,8 +47,7 @@ public class Quiz_03 {
 		
 		result = "%d년 %d월 %d일 출생, %d세, %s입니다\n";
 		result = String.format(result, year, month, day, age, adult);
-		System.out.println(result);
-		
+		System.out.println(result);		
 		sc.close();
 	}
 }

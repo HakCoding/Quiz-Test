@@ -1,6 +1,5 @@
 package quiz;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Quiz_04 {
@@ -67,5 +66,7 @@ public class Quiz_04 {
 
 			boolean flag = 1 <= n7 && n7 <= 20;
 			System.out.println(flag);
+			
+			sc.close();
 		}
 	}

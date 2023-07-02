@@ -15,7 +15,7 @@ public class Quiz_10 {
 			String arrow = "↑";		
 			
 			Scanner sc = new Scanner(System.in);
-			int num;
+			int num; 
 			
 			System.out.print("정수 입력 : ");
 			num = Integer.parseInt(sc.nextLine());
